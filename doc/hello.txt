@@ -1,0 +1,1 @@
+src/hello.c => realiza o print em tela da mensagem "Hello World"
