@@ -1,5 +1,3 @@
-// teste do git
-
 #include <stdio.h>
 
 int main()
