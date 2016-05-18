@@ -2,7 +2,7 @@
 
 int main()
 {
-	pritf("Teste git\n");
+	pritf("Teste git\n"); // comentario no meio
 	return 0;
 }
 
