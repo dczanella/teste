@@ -4,6 +4,6 @@
 
 int main()
 {
-	pritf("Teste git\n");
+	pritf("Teste git\n"); // novo comentario
 	return 0;
 }
