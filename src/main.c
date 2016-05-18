@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//programa principal
 int main()
 {
 	pritf("Teste git\n"); // comentario no meio
